@@ -21,5 +21,6 @@ and use this [VSCode settings](https://mate-academy.github.io/fe-program/tools/v
 ## Demo Links
 
 Replace `<your_account>` with your Github username and copy the links to Pull Request description:
+
 - [DEMO LINK](https://Oleksandr-Shumelda.github.io/layout_hello-world/)
-- [BackstopJS Report](https://Oleksandr-Shumelda.github.io/layout_hello-world/report/html_report/)
+- [BackstopJS Report](https://oleksandr-shumelda.github.io/layout_hello-world/backstop_data/html_report/index.html)
